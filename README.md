@@ -1,4 +1,4 @@
-# Stretched-Dialog
+# Stretchable-Dialog-Android
 Example of dialog with stretched content body
 
 Often I need dialog with transparent back without fixed size. It can be some text, image with unknown ratio, list of somethig. I can calculate the height, but Constraint Layout can to do it automatically. Small example:
