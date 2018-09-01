@@ -7,7 +7,6 @@ Often I need dialog with transparent back without fixed size. It can be some tex
 <!--Main container with transparent background-->
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#33000000">
@@ -17,10 +16,6 @@ Often I need dialog with transparent back without fixed size. It can be some tex
         android:layout_width="match_parent"
         <!--Ok, i wrap to content-->
         android:layout_height="wrap_content"  
-        android:layout_marginStart="24dp"
-        android:layout_marginEnd="24dp"
-        android:layout_marginBottom="24dp"
-        android:paddingTop="24dp"
         <!-- But I have all constraints, my bias arrange me to bottom-->
         app:layout_constraintBottom_toTopOf="@id/dialog_ok"
         app:layout_constraintEnd_toEndOf="parent"
@@ -36,9 +31,6 @@ Often I need dialog with transparent back without fixed size. It can be some tex
         android:id="@+id/dialog_ok"
         android:layout_width="0dp"
         android:layout_height="50dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="10dp"
         android:background="#F00"
         android:textColor="#FFF"
         android:text="OK"
