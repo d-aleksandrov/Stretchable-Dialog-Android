@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mentalstack.android:recyclerview-extensions-kotlin-3.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-extensions-kotlin-3.0.aar/4d9eb8955aa1518153899789cddb0a0c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-extensions-kotlin-3.0.aar/4d9eb8955aa1518153899789cddb0a0c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mentalstack.android/recyclerview-extensions-kotlin/3.0/ad6c74f56437f2d874146b37bbbab00db34a4f85/recyclerview-extensions-kotlin-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
