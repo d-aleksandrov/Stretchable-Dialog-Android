@@ -44,3 +44,6 @@ Often I need dialog with transparent back without fixed size. It can be some tex
 
 That's all! I can attach to dialog_container some content, such as ScrollView(from fixed content), RecyclerView.
 My window will shrink to size of content size, or limit size of the window size.
+
+
+<img src="https://github.com/d-aleksandrov/Stretchable-Dialog-Android/blob/master/media/ezgif.com-video-to-gif.gif" width="320"/>
